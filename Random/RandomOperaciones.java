@@ -52,7 +52,7 @@ public class RandomOperaciones {
     private static void WhatsappSender(StringBuilder operaciones) {
         try {
             String encodedMessage = URLEncoder.encode(operaciones.toString(), "UTF-8");
-            String numeroTelefono = "5553857310";
+            String numeroTelefono = "12345678"; // Numero a cambiar
             String url = "https://wa.me/" + numeroTelefono + "?text=" + encodedMessage;
     
             if (Desktop.isDesktopSupported()) {
