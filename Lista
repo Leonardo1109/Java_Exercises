@@ -1,20 +1,19 @@
-Nivel 1: Repaso de lo básico
-Operaciones matemáticas:
-Crea un programa que pida dos números al usuario y muestre la suma, resta, multiplicación y división.
-Condicionales:
-Pide un número y determina si es par o impar.
-Verifica si un número es positivo, negativo o cero.
-Bucles:
-Muestra los primeros 10 números de la serie de Fibonacci.
-Imprime la tabla de multiplicar de un número ingresado por el usuario.
-Funciones:
-Crea una función que reciba un número y devuelva si es primo o no.
-Crea una función que convierta grados Celsius a Fahrenheit y viceversa.
+/ Nivel 1: Repaso de lo básico
+/ Operaciones matemáticas:
+/ Crea un programa que pida dos números al usuario y muestre la suma, resta, multiplicación y división.
+/ Condicionales:
+/ Pide un número y determina si es par o impar.
+/ Verifica si un número es positivo, negativo o cero.
+/ Bucles:
+/ Muestra los primeros 10 números de la serie de Fibonacci.
+/ Imprime la tabla de multiplicar de un número ingresado por el usuario.
+/ Funciones:
+/ Crea una función que convierta grados Celsius a Fahrenheit y viceversa.
 
 Nivel 2: Programación Orientada a Objetos (POO)
-Clases y objetos:
-Crea una clase Coche con atributos como marca, modelo y velocidad.
-Añade métodos para acelerar y frenar.
+/ Clases y objetos:
+/ Crea una clase Coche con atributos como marca, modelo y velocidad.
+/ Añade métodos para acelerar y frenar.
 Encapsulación:
 Modifica la clase Coche para que sus atributos sean privados y usa getters y setters.
 Herencia:
