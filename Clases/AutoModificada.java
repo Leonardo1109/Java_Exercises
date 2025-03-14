@@ -1,11 +1,11 @@
 package Clases;
 
-public class Auto {
-    public String marca;   
-    public String modelo;
-    public int velocidad;
+public class AutoModificada {
+    private String marca;   
+    private String modelo;
+    private int velocidad;
 
-    public Auto(String marca, String modelo, int velocidad) {
+    public AutoModificada(String marca, String modelo, int velocidad) {
         this.marca = marca;
         this.modelo = modelo;
         this.velocidad = velocidad;
@@ -62,5 +62,4 @@ public class Auto {
             System.out.println("La desaceleracion debe ser un valor positivo");
         }
     }
-
 }
