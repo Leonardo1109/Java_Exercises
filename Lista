@@ -21,12 +21,12 @@
 / Polimorfismo:
 / Usa una lista de Animal y recorre los objetos llamando a hacerSonido(), demostrando polimorfismo.
 
-Nivel 3: Manejo de archivos y estructuras de datos
-Archivos:
-Escribe un programa que lea un archivo de texto y cuente cuántas palabras tiene.
-Colecciones:
-Usa un ArrayList para almacenar una lista de nombres y ordénalos alfabéticamente.
-Usa un HashMap para almacenar claves y valores, como nombres de estudiantes y sus calificaciones.
+/ Nivel 3: Manejo de archivos y estructuras de datos
+/ Archivos:
+/ Escribe un programa que lea un archivo de texto y cuente cuántas palabras tiene.
+/ Colecciones:
+/ Usa un ArrayList para almacenar una lista de nombres y ordénalos alfabéticamente.
+/ Usa un HashMap para almacenar claves y valores, como nombres de estudiantes y sus calificaciones.
 
 Nivel 4: Aplicaciones prácticas
 Simulación bancaria:
