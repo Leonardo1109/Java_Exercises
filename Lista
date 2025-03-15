@@ -10,16 +10,16 @@
 / Funciones:
 / Crea una función que convierta grados Celsius a Fahrenheit y viceversa.
 
-Nivel 2: Programación Orientada a Objetos (POO)
+/ Nivel 2: Programación Orientada a Objetos (POO)
 / Clases y objetos:
 / Crea una clase Coche con atributos como marca, modelo y velocidad.
 / Añade métodos para acelerar y frenar.
-Encapsulación:
-Modifica la clase Coche para que sus atributos sean privados y usa getters y setters.
-Herencia:
-Crea una clase Animal con un método hacerSonido(). Luego, crea clases Perro y Gato que hereden de Animal y sobreescriban el método.
-Polimorfismo:
-Usa una lista de Animal y recorre los objetos llamando a hacerSonido(), demostrando polimorfismo.
+/ Encapsulación:
+/ Modifica la clase Coche para que sus atributos sean privados y usa getters y setters.
+/ Herencia:
+/ Crea una clase Animal con un método hacerSonido(). Luego, crea clases Perro y Gato que hereden de Animal y sobreescriban el método.
+/ Polimorfismo:
+/ Usa una lista de Animal y recorre los objetos llamando a hacerSonido(), demostrando polimorfismo.
 
 Nivel 3: Manejo de archivos y estructuras de datos
 Archivos:
