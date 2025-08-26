@@ -24,4 +24,11 @@ public class Persona {
     public void setApellido(String apellido) {
         this.apellido = apellido;
     }
+    
+    public void mostrarPersona(){
+        System.out.printf("""
+                Nombre: %s
+                Apellido: %s
+                """, nombre, apellido);
+    }
 }
