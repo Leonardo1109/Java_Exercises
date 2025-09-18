@@ -1,4 +1,4 @@
-package Tareas.T28_Retos.GestorTareas;
+package Tareas.T28_Retos;
 
 public class Multiplos3y5 {
     public static void main(String[] args) {
